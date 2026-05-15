@@ -109,3 +109,4 @@ Point 2: (3, 4, 1.5)
 ## Summary
 
 Great job! Now that you know about the various distance metrics, you can use them to writing a K-Nearest Neighbors classifier from scratch!
+# Distance-Metrics-Lab
